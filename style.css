@@ -198,7 +198,6 @@ color: red;
 .presentation{
     font-size: 16px;
     padding: 20px 50px;
-    margin: 0;
     
 }
 .image-container {
@@ -210,10 +209,11 @@ color: red;
     flex-direction:row;
     align-items: center;
 }
+
 .footer.container {
     flex-direction: column;
-    margin: 0;
 }
+
 .footer.container div {
     padding: 25px 15px;
     margin-top: 40px;

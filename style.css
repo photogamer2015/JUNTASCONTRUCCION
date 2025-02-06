@@ -202,7 +202,7 @@ color: red;
 }
 .image-container {
     width: 100%;
-    margin: 0;
+    margin-left: 10px;
 }
 .footer {
     flex-direction:row;

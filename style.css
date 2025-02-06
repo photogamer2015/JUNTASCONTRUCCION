@@ -202,8 +202,15 @@ color: red;
 }
 .image-container {
     width: 100%;
-    margin-left: 10px;
+    margin-left: 0px;
 }
+ .image-container img {
+     width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 10px;
+     
 .footer {
     flex-direction:row;
     align-items: center;

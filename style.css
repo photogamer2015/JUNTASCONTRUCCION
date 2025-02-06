@@ -23,7 +23,7 @@ nav ul {
   }
   
   nav li a:hover {
-    background-color: #0e92b7; /* Color de fondo al pasar el ratón por encima */
+    background-color: #C19A6B; /* Color de fondo al pasar el ratón por encima */
   }
 
 .logo{
@@ -52,18 +52,6 @@ nav ul {
     color: aliceblue;
     padding: 5px;
     margin-bottom: 1px;
-}
-.button{
-    
-    margin-left: 20%;
-    padding: 15px;
-    background-color: black;
-    color: aliceblue;
-    border-radius: 5%;
-}
-.button:hover{
-transform: scale(1.05);
-color:rgb(129, 228, 120);
 }
 
 .intro{
@@ -199,6 +187,11 @@ color: red;
     object-fit: cover;
     border-radius: 15px;
     margin-bottom: 10px;
+ }
+
+nav li a:hover {
+    background-color: #C19A6B; /* Color de fondo al pasar el ratón por encima */
+  }
      
 .footer {
     flex-direction:row;

@@ -93,7 +93,7 @@ color:rgb(129, 228, 120);
    
 }
 .image-container {
-    margin-left: 10px;
+    margin-left: 5px;
     width: 250px; /* Ajusta el tamaño según tus necesidades */
     height: auto; /* Mantiene la proporción de la imagen */
     overflow: hidden; /* Oculta cualquier desbordamiento de la imagen */

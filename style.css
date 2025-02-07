@@ -89,18 +89,8 @@ nav ul {
   .image-container:hover {
     transform: scale(1.05); /* Efecto de zoom al hacer hover */
   }
-.link{
-    text-decoration: none;
-}
-.link:hover{
-color: red;
-}
-.link{
-    text-align: center;
-}
-.bailoteca{
-    text-align: center;
-}
+.
+
 
 .footer {
     background-color: #333;

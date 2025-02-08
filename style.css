@@ -94,21 +94,30 @@ padding: 0 50px;
   }
 
 .footer {
-    background-color: #282727;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
+    position: relative;
+  width: 93.1%;
+  background: #000000;
+  min-height: 100px;
+  padding: 15px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .footer .container {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    max-width: 1200px;
-    margin: auto;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+  margin: 10px 0;
+  flex-wrap: wrap;
 }
 .footer .container div {
-    flex: 1 1 300px;
-    padding: 10px;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 18px;
 }
 .footer h3 {
     margin-bottom: 15px;
@@ -116,17 +125,22 @@ padding: 0 50px;
 .footer p, .footer a {
     color: #bbb;
     text-decoration: none;
-    margin: 5px 0;
+    margin: 10px 40px;
     display: block;
 }
 .footer a:hover {
     color: white;
 }
 .footer .social-icons {
-    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 10px 5px;
+    flex-wrap: wrap;
 }
 .footer .social-icons a {
-    margin: 0 10px;
+    margin: 0 15px;
     color: #bbb;
     font-size: 1.5em;
     transition: color 0.3s;
@@ -134,12 +148,15 @@ padding: 0 50px;
 .footer .social-icons a:hover {
     color: white;
 }
-.footer-bottom {
-    background-color: #222;
-    color: #bbb;
-    padding: 10px 0;
+
+.footer-bottom{
+    color: aliceblue;
+    padding: 4px 100px;
     margin-top: 20px;
+    text-align: left;
+    border-radius: 5%;
 }
+
 .resolution{
     width: 100%;
     text-align: center;
@@ -181,24 +198,6 @@ padding: 0 50px;
 nav li a:hover {
     background-color: #C19A6B; /* Color de fondo al pasar el ratón por encima */
   }
-
-    .footer {
-  position: relative;
-  width: 93.1%;
-        margin: 0;
-    }
-
-.footer.container {
-    flex-direction: column;
-}
-
-.footer.container div {
-    padding: 25px 15px;
-    margin-top: 40px;
-}
-.footer.social-icons {
-    margin-top: 0;
-}
 
  }
 @media (max-width: 900px) {

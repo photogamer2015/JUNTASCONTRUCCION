@@ -193,13 +193,13 @@ margin-left: 20%;
     flex-direction: column;
     position: relative;
     margin-left: 20%;
-    padding: 20px 2px;
+    padding: 20% 20%;
     border-radius: 20% 20%;
     text-align: center;
     
     
 }
-    nav ul{
+    .center{
         text-align:center;
     }
 

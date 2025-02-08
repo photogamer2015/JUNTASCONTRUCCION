@@ -182,6 +182,9 @@ text-align: center;
 margin-left: 20%;
 
     }
+    .contacto{
+text-align: center;
+    }
 
 .navbar {
     flex-direction: column;

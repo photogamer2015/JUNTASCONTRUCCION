@@ -8,6 +8,7 @@ nav ul {
     padding: 0;
     background-color: #333; /* Color de fondo del menú */
     overflow: hidden; /* Evita que los elementos se desborden */
+    text-align: center;
   }
   
   nav li {
@@ -41,7 +42,7 @@ nav ul {
     margin-top: 1px;
 }
 .navbar {
-    border-radius: 8px; /* Bordes redondeados */
+    border-radius: 10px; /* Bordes redondeados */
     overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
     position: relative;
 }
@@ -193,7 +194,7 @@ margin-left: 20%;
     margin-left: 30px;
     margin: 0;
     padding: 20px 2px;
-    border-radius: 20px;
+    border-radius: 20%;
     
     
 }

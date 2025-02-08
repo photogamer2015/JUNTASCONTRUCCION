@@ -60,7 +60,6 @@ nav ul {
     background-color: #282727;
     color: aliceblue;
     padding: 50px;
-    margin: 0px;
     border-radius: 20px;
 }
 .presentation{
@@ -158,6 +157,8 @@ nav ul {
     font-size: 18px;
     padding: 20px 100px;
     position: relative;
+    margin: 0px;
+    width: 93.1%;
 }
 .presentation{
     font-size: 16px;

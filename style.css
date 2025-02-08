@@ -64,10 +64,12 @@ nav ul {
     border-radius: 20px;
 }
 .presentation{
-    text-align: center;
+text-align: center;
     background-color: #C19A6B;
     color: aliceblue;
-    margin:100px;
+position: relative;
+  width: 93.1%;
+padding: 0 50px;
    
 }
 .image-container {
@@ -162,14 +164,6 @@ nav ul {
     position: relative;
     margin: 0px;
     width: 93.1%;
-}
-.presentation{
-    font-size: 16px;
-    padding: 20px 50px;
-position: relative;
-  width: 93.1%;
-    margin: 0;
-    
 }
 .image-container {
     width: 100%;

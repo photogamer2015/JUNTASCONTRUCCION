@@ -19,7 +19,7 @@ nav ul {
     display: block; /* Convierte los enlaces en elementos de bloque para que ocupen todo el espacio del contenedor <li> */
     color: white; /* Color de texto */
     text-align: center; /* Centra el texto */
-    padding: 14px 16px; /* Espacio interno alrededor del texto */
+    padding: 15px 20px; /* Espacio interno alrededor del texto */
     text-decoration: none; /* Elimina el subrayado de los enlaces */
   }
   

@@ -189,6 +189,7 @@ nav li a:hover {
     .footer {
   position: relative;
   width: 93.1%;
+        margin: 0;
     }
 
 .footer.container {

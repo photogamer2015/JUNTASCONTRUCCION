@@ -171,9 +171,8 @@ padding: 0 50px;
     
 }
     .info {
-margin-left: 40px;
-border-radius: 5%;
-        
+text-align: center; 
+    
     }
 
 .navbar {
@@ -181,6 +180,7 @@ border-radius: 5%;
     position: relative;
     width: 95.1%;
     margin-left: 40px;
+    border-radius: 5%;
     
 }
 

@@ -170,6 +170,10 @@ padding: 0 50px;
     margin-left: 15%;
     
 }
+    .info {
+margin-left: 30px;
+        
+    }
 
 .navbar {
     flex-direction: column;

@@ -95,8 +95,6 @@ nav ul {
     color: white;
     padding: 20px 0;
     text-align: center;
-position: relative;
-  width: 93.1%;
 }
 .footer .container {
     display: flex;
@@ -186,6 +184,11 @@ position: relative;
 nav li a:hover {
     background-color: #C19A6B; /* Color de fondo al pasar el ratón por encima */
   }
+
+    .footer {
+  position: relative;
+  width: 93.1%;
+    }
 
 .footer.container {
     flex-direction: column;

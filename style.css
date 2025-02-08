@@ -44,7 +44,6 @@ nav ul {
     border-radius: 8px; /* Bordes redondeados */
     overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
     position: relative;
-    width: 95.1%;
 }
 .info{
     text-align: center;
@@ -176,7 +175,7 @@ padding: 0 50px;
     flex-direction: column;
     position: relative;
     width: 95.1%;
-    margin-left: 20px;
+    margin-left: 30px;
     
 }
 

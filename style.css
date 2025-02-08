@@ -167,12 +167,13 @@ padding: 0 50px;
      width: 50%;
      height: 50%;
     margin: 0 auto;
-    margin-left: 15%;
+    margin-left: 20%;
     
 }
     .info {
-text-align: center; 
-    
+text-align: center;
+margin-left: 20%;
+
     }
 
 .navbar {

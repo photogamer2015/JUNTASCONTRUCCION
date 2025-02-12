@@ -12,7 +12,7 @@ nav ul {
   }
 
   nav ul li {
-    border: 1px solid rgba(4, 43, 82, 0.819); /* Ajusta el grosor y color según necesites */
+    border: 2px solid rgba(4, 43, 82, 0.819); /* Ajusta el grosor y color según necesites */
   }
 
   nav li {
@@ -21,14 +21,14 @@ nav ul {
   
   nav li a {
     display: block; /* Convierte los enlaces en elementos de bloque para que ocupen todo el espacio del contenedor <li> */
-    color: #C19A6B; /* Color de texto */
+    color: white; /* Color de texto */
     text-align: center; /* Centra el texto */
     padding: 10px 10px; /* Espacio interno alrededor del texto */
     text-decoration: none; /* Elimina el subrayado de los enlaces */
   }
   
   nav li a:hover {
-    background-color: #4c4c4c; /* Color de fondo al pasar el ratón por encima */
+    background-color: #C19A6B; /* Color de fondo al pasar el ratón por encima */
   }
  .button:hover{
     background-color: rgba(5, 56, 106, 0.819) ;
@@ -277,7 +277,7 @@ nav ul{
     }
     
     .botoncerrar:hover{
-    background-color: #C19A6B;;
+    background-color: #C19A6B;
 }
 
 .intro{

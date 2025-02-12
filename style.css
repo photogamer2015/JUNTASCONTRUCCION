@@ -233,7 +233,7 @@ margin-left: 20%;
 .navbar {
     flex-direction: column;
     position: relative;
-    margin-left: 40%;
+    margin-left: 10%;
     
     border-radius: 5% 5%;
     text-align: center;
@@ -247,27 +247,27 @@ nav ul{
 #button{
     text-align: center;
     margin-left: 10px;
-    padding:  20px 40px;
+    padding:  10px 40px;
 }
 #button2{
     text-align: center;
     margin-left: 10px;
-    padding:  20px 40px;
+    padding:  10px 40px;
 }
 #button3{
     text-align: center;
     margin-left: 10px;
-    padding:  20px 34px;
+    padding:  10px 34px;
 }
 #button4{
     text-align: center;
     margin-left: 10px;
-    padding:  20px 26px;
+    padding:  10px 26px;
 }
 #button5{
     text-align: center;
     margin-left: 10px;
-    padding:  20px 87px;
+    padding:  10px 87px;
 }
     .center{
         text-align:center;

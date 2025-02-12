@@ -5,14 +5,14 @@ background-color: aliceblue;
 nav ul {
     list-style: none; /* Elimina los puntos de la lista */
     padding: 0;
-    background-color: #333; /* Color de fondo del menú */
+    background-color: #4c4c4c; /* Color de fondo del menú */
     overflow: hidden; /* Evita que los elementos se desborden */
     text-align: center;
         margin: 5px; /* ajusta el valor según necesites */
   }
 
   nav ul li {
-    border: 1px solid #C19A6B; /* Ajusta el grosor y color según necesites */
+    border: 1px solid rgba(4, 43, 82, 0.819); /* Ajusta el grosor y color según necesites */
   }
 
   nav li {
@@ -21,14 +21,14 @@ nav ul {
   
   nav li a {
     display: block; /* Convierte los enlaces en elementos de bloque para que ocupen todo el espacio del contenedor <li> */
-    color: white; /* Color de texto */
+    color: #C19A6B; /* Color de texto */
     text-align: center; /* Centra el texto */
     padding: 10px 10px; /* Espacio interno alrededor del texto */
     text-decoration: none; /* Elimina el subrayado de los enlaces */
   }
   
   nav li a:hover {
-    background-color: #C19A6B; /* Color de fondo al pasar el ratón por encima */
+    background-color: #4c4c4c; /* Color de fondo al pasar el ratón por encima */
   }
  .button:hover{
     background-color: rgba(5, 56, 106, 0.819) ;

@@ -49,7 +49,7 @@ nav ul {
     margin-top: 1px;
 }
 .navbar {
-    border-radius: 10px; /* Bordes redondeados */
+    border-radius: 20px; /* Bordes redondeados */
     overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
     position: relative;
     text-align: center;
@@ -231,7 +231,7 @@ margin-left: 20%;
     position: relative;
     margin-left: 10%;
     
-    border-radius: 5% 5%;
+    border-radius: 10px;
     text-align: center;
     
 }

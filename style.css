@@ -234,13 +234,12 @@ margin-left: 20%;
     flex-direction: column;
     position: relative;
     margin-left: 20%;
-    margin-right: 5%;
     
     border-radius: 5% 5%;
     text-align: center;
     
-    
 }
+    
 nav ul{
     padding: 10px 45px;
     margin-left: 25px;

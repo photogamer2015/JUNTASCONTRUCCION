@@ -301,14 +301,7 @@ nav li a:hover {
   }
 
  }
-@media (max-width: 900px) {
-    .desktop {
-        display: none;
-    }
-    .movil {
-        display: none;
-    }
-}
+
 
 
 

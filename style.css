@@ -97,9 +97,6 @@ nav ul {
 .botoncerrar:hover{
     background-color: #C19A6B;;
 }
-.botoncerrar:active{
-    background-color: #C19A6B;;
-}
 
 .presentation{
 text-align: center;
@@ -279,6 +276,10 @@ nav ul{
     .center{
         text-align:center;
     }
+    
+    .botoncerrar:hover{
+    background-color: #C19A6B;;
+}
 
 .intro{
     position: relative;

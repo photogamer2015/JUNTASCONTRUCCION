@@ -12,12 +12,7 @@ nav ul {
   }
 
   nav ul li {
-    border: 1px solid #ccc; /* Ajusta el grosor y color según necesites */
-
-  }
- nav ul li:hover {
-    color: rgba(4, 43, 82, 0.819); /* Ajusta el grosor y color según necesites */
-
+    border: 1px solid #333; /* Ajusta el grosor y color según necesites */
   }
 
   nav li {

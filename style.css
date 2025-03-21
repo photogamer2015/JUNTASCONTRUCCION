@@ -334,6 +334,15 @@ nav li a:hover {
         display: none;
     }
 }
+@media (max-width: 1200px) {
+    .desktop {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
+
 
 
 

@@ -93,7 +93,8 @@ nav ul {
     cursor: pointer;
 }
 .botoncerrar:hover{
-    background-color: #C19A6B;;
+    background-color: #C19A6B;
+    color: red;
 }
 
 .presentation{

@@ -221,6 +221,7 @@ text-align: center;
 }
     .presentation{
         padding: 0em 1em;
+        position: relative;
     }
     .clic{
         text-align: center;

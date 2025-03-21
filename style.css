@@ -2,6 +2,9 @@ body{
 background-color: aliceblue;
 }
 
+h1{
+    font-family: "Times New Roman", Times, Arial;
+
 nav ul {
     list-style: none; /* Elimina los puntos de la lista */
     padding: 0;

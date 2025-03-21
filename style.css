@@ -54,7 +54,7 @@ nav ul {
     margin-top: 1px;
 }
 .navbar {
-    border-radius: 20px; /* Bordes redondeados */
+    border-radius: 50px; /* Bordes redondeados */
     overflow: hidden; /* Para asegurar que los bordes redondeados funcionen correctamente */ 
     position: relative;
     text-align: center;
@@ -255,6 +255,7 @@ font-family: "Times New Roman", Times, Arial;
     position: relative;
     margin-right: 3em;
     margin-left: 2em;
+    border-radius: 50px
     
     border-radius: 10px;
     text-align: center;

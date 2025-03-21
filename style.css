@@ -212,12 +212,12 @@ padding: 0 50px;
      width: 50%;
      height: 30%;
     margin: 0 auto;
-    margin-left: 20%;
+    margin-right: 2em;
     
 }
     .clic{
         text-align: center;
-        margin-right: 4em;
+        margin-right: 2em;
     }
     
     .info {
@@ -229,7 +229,7 @@ margin-right: 2em;
 .navbar {
     flex-direction: column;
     position: relative;
-    margin-right: 4em;
+    margin-right: 3em;
     
     border-radius: 10px;
     text-align: center;

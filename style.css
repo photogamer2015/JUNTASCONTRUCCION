@@ -222,14 +222,14 @@ padding: 0 50px;
     
     .info {
 text-align: center;
-margin-right: 4em;
+margin-right: 6em;
 
     }
 
 .navbar {
     flex-direction: column;
     position: relative;
-    margin-right: 4em;
+    margin-right: 6em;
     
     border-radius: 10px;
     text-align: center;

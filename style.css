@@ -211,7 +211,7 @@ width: 100%;
 text-align: center;
 }
 
-@media (max-width: 800px){
+@media (max-width: 900px){
 .logo{
      width: 50%;
      height: 30%;
@@ -326,7 +326,7 @@ nav li a:hover {
   }
 
  }
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
     .desktop {
         display: none;
     }

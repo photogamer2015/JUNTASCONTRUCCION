@@ -235,6 +235,9 @@ margin-right: 1em;
     text-align: center;
     
 }
+    .presentation{
+padding: 5px 50px;
+    }
     
 nav ul{
     padding: 15px 45px;

@@ -205,6 +205,11 @@ padding: 0px 0px;
     text-align: center;
 }
 
+#playlist{
+width: 100%;
+text-align: center;
+}
+
 @media (max-width: 800px){
 .logo{
      width: 50%;

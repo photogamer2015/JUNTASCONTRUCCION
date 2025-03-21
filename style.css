@@ -36,7 +36,7 @@ nav ul {
 
 .logo{
     width: 200px;
-    height: 200px;
+    height: 150px;
     margin-right: 1%;
     margin-left: 2%;
     border-radius: 5%;
@@ -226,7 +226,7 @@ text-align: center;
     
     .info {
 text-align: center;
-margin-left: 1em;
+margin-left: 0.5em;
 
     }
 
@@ -234,7 +234,7 @@ margin-left: 1em;
     flex-direction: column;
     position: relative;
     margin-right: 3em;
-    margin-left: 1em;
+    margin-left: 2em;
     
     border-radius: 10px;
     text-align: center;
@@ -253,6 +253,11 @@ nav ul{
     padding:  20px 40px;
 
  }
+    .botoncerrar:hover{
+    background-color: #C19A6B;
+    color: red;
+}
+
     
 #button{
     text-align: center;

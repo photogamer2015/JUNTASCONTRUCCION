@@ -98,8 +98,8 @@ nav ul {
     background-color: rgba(4, 43, 82, 0.819);
     color: aliceblue;
     border: none;
-    border-radius: 5px;
-    cursor: pointer;
+   border-radius: 50px;
+   cursor: pointer;
 }
 .botoncerrar:hover{
     background-color: #C19A6B;
@@ -271,6 +271,7 @@ nav ul{
     margin-right: 1em;
     margin-left: 3em;    
     padding:  20px 40px;
+     border-radius: 50px;    
     font-family: "Times New Roman", Times, Arial;
 
  }

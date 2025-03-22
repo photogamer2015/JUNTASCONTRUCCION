@@ -356,6 +356,11 @@ nav ul{
     margin: 0px;
 
 }
+    
+    .presentation{
+    border-radius: 5%;    
+    }
+    
     .introlosa{
     position: relative;
     margin: 0px;

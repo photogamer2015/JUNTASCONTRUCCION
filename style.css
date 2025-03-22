@@ -247,6 +247,7 @@ text-align: center;
 .video{
 height: 50%;
 width: 75%;
+border-radius: 25%;    
 }
     
 h1{

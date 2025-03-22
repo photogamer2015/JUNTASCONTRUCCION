@@ -1,6 +1,10 @@
 body{
 background-color: aliceblue;
 }
+.video{
+height: 100px;
+width: 100px;
+}
 
 h1{
     font-family: "Times New Roman", Times, Arial;

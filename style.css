@@ -308,25 +308,25 @@ nav ul{
 #button2{
     text-align: center;
     margin-left: 10px;
-    padding:  0px 0px 20px;
+    padding:  0px 0px 20px 0px;
     font-family: "Times New Roman", Times, Arial;
 }
 #button3{
     text-align: center;
     margin-left: 10px;
-    padding:  10px 34px;
+    padding:  0px 0px 20px 0px;
     font-family: "Times New Roman", Times, Arial;
 }
 #button4{
     text-align: center;
     margin-left: 10px;
-    padding:  10px 26px;
+    padding:  00px 0 20px 0px;
     font-family: "Times New Roman", Times, Arial;
 }
 #button5{
     text-align: center;
     margin-left: 10px;
-    padding:  10px 40px;
+    padding:  0px 0px 20px 0px;
     font-family: "Times New Roman", Times, Arial;
 }
     .center{

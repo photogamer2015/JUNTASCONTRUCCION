@@ -253,6 +253,9 @@ height: 50%;
 width: 70%;
 border-radius: 8%;    
 }
+    .youtube:hover{
+color: rgba(4, 43, 82, 0.819);
+}
     
 h1{
     font-family: "Times New Roman", Times, Arial;

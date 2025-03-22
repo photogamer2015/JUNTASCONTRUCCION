@@ -2,8 +2,8 @@ body{
 background-color: aliceblue;
 }
 .video{
-height: 100px;
-width: 100px;
+height: 500px;
+width: 500px;
 }
 
 h1{
@@ -236,6 +236,11 @@ text-align: center;
     margin-left: 0.6em;
     border-radius: 50px;
     
+}
+
+.video{
+height:5em;
+width: 5em;
 }
     
 h1{

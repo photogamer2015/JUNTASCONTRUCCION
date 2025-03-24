@@ -231,6 +231,7 @@ font-family: "Times New Roman", Times, Arial;
 .resolution{
     width: 100%;
     text-align: center;
+    background-image: linear-gradient(aliceblue, gray, black);
 }
 
 #playlist{

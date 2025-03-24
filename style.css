@@ -93,9 +93,9 @@ nav ul {
     text-align: center;
     text-align: justify;
     background-image: linear-gradient(
-    rgb(102, 102, 102),
-    rgb(61, 61, 61),
-    rgb(0, 0, 0)
+    #ad8b61,
+    #755a39,
+    #543624
   );
     color: aliceblue;
     padding: 50px;

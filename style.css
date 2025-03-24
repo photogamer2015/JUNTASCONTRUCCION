@@ -88,7 +88,11 @@ nav ul {
 .intro{
     text-align: center;
     text-align: justify;
-    background-color: #4c4c4c;
+    background-image: linear-gradient(
+    rgb(102, 102, 102),
+    rgb(61, 61, 61),
+    rgb(0, 0, 0)
+  );
     color: aliceblue;
     padding: 50px;
     margin: 100px;

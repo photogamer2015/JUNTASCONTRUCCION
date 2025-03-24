@@ -92,11 +92,7 @@ nav ul {
 .intro{
     text-align: center;
     text-align: justify;
-    background-image: linear-gradient(
-    #ad8b61,
-    #755a39,
-    #543624
-  );
+    background-image: linear-gradient(#897052, #5e4b31, #523623);
     color: aliceblue;
     padding: 50px;
     margin: 100px;

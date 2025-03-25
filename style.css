@@ -28,7 +28,7 @@ h1{
 }
 
 nav ul {
-  border-radius: 50px;
+  border-radius: 25px;
   list-style: none; /* Elimina los puntos de la lista */
   padding: 0;
   background-image: linear-gradient(

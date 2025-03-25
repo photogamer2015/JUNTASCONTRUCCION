@@ -138,8 +138,10 @@ nav ul li a {
 
 .presentation{
 text-align: center;
-    background-color: #C19A6B;
-    color: aliceblue;
+background-image: linear-gradient(
+    #C19A6B,
+    #523623);
+color: aliceblue;
 position: relative;
   width: 100%;
 padding: 0px 0px;

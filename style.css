@@ -179,8 +179,7 @@ font-family: "Times New Roman", Times, Arial;
 .footer {
  position: relative;
  width: 100%;
- background-image: linear-gradient( rgb(165, 169, 173),
-    rgb(88, 89, 89), black);
+ background-image: linear-gradient( rgb(88, 89, 89),#1f1f1f,#000000 );
   min-height: 100px;
   padding: 15px 50px;
   display: flex;

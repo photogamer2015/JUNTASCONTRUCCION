@@ -121,9 +121,11 @@ nav ul li a {
     font-family: "Times New Roman", Times, Arial;
     text-align: center;
     padding: 30px 30px;
-     background-image: linear-gradient(
-    rgba(4, 43, 82, 0.819),
-    rgba(12, 56, 101, 0.819));
+    background-image: linear-gradient(
+    #c92626e6,
+    rgba(130, 25, 25, 0.901),
+    rgba(109, 23, 23, 0.901)
+    );
     color: aliceblue;
     border: none;
    border-radius: 100%;

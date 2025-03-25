@@ -108,9 +108,7 @@ nav ul li a {
     text-align: justify;
     background-image: linear-gradient(
     rgba(11, 85, 158, 0.819),
-    rgba(12, 56, 101, 0.819),
-    rgba(7, 34, 60, 0.819)
-  );
+    rgba(7, 34, 60, 0.819));
     color: aliceblue;
     padding: 50px;
     margin:100px;

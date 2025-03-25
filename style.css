@@ -126,7 +126,7 @@ nav ul li a {
     rgba(12, 56, 101, 0.819));
     color: aliceblue;
     border: none;
-   border-radius: 50px;
+   border-radius: 100px;
    cursor: pointer;
 }
 .botoncerrar:hover{

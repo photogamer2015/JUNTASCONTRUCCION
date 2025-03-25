@@ -133,8 +133,7 @@ nav ul li a {
   font-family: 14px;
 }
 .botoncerrar:hover{
-    background-color: #C19A6B;
-    color: red;
+    background-color: rgba(4, 43, 82, 0.819);
 }
 
 .presentation{
@@ -333,18 +332,17 @@ nav list:last-child {
     .botoncerrar{
     margin-right: 1.6em;
     margin-left: 3em;    
-    padding:  20px 40px;
-    border-radius: 50px;    
+    padding:  30px 30px;
+    border-radius: 100%;    
     font-family: "Times New Roman", Times, Arial;
     font-size: 15px;
+    background-image: linear-gradient(
+    #c92626e6,
+    rgba(130, 25, 25, 0.901),
+    rgba(109, 23, 23, 0.901)
+    );
 
- }
-    .botoncerrar:hover{
-    background-color: #C19A6B;
-    color: red;
-}
-
-    
+ } 
 #button{
     text-align: center;
     margin-left: 10px;

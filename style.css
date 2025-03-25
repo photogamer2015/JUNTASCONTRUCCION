@@ -120,9 +120,9 @@ nav ul li a {
 .botoncerrar{
     font-family: "Times New Roman", Times, Arial;
     text-align: center;
-    padding: 25px 25px;
+    padding: 30px 30px;
      background-image: linear-gradient(
-    rgba(11, 85, 158, 0.819),
+    rgba(4, 43, 82, 0.819),
     rgba(12, 56, 101, 0.819));
     color: aliceblue;
     border: none;

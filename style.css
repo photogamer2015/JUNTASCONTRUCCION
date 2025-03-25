@@ -149,7 +149,9 @@ font-family: "Times New Roman", Times, Arial;
 }
 .presentationlosa{
     text-align: center;
-    background-color:rgba(4, 43, 82, 0.819);
+    background-image: linear-gradient(
+    rgba(11, 85, 158, 0.819),
+    rgba(7, 34, 60, 0.819));
     color: aliceblue;
     position: relative;
     width: 100%;

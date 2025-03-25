@@ -263,6 +263,11 @@ text-align: center;
     margin-left: 0.6em;
     border-radius: 50px; 
 }
+  
+.resolution {
+    background-color: aliceblue;
+  }
+  
 body {
     background-color: aliceblue;
   }

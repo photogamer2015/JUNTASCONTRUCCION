@@ -316,7 +316,12 @@ font-family: "Times New Roman", Times, Arial;
 nav ul{
     padding: 15px 45px;
     margin-left: 25px;
+    border-bottom: 1px solid #f5cf88;
 }
+ 
+nav list:last-child {
+  border-bottom: none;
+  }
     
     .botoncerrar{
     margin-right: 1.6em;

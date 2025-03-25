@@ -120,13 +120,13 @@ nav ul li a {
 .botoncerrar{
     font-family: "Times New Roman", Times, Arial;
     text-align: center;
-    padding: 20px 50px;
+    padding: 50px 50px;
      background-image: linear-gradient(
     rgba(11, 85, 158, 0.819),
     rgba(12, 56, 101, 0.819));
     color: aliceblue;
     border: none;
-   border-radius: 100px;
+   border-radius: 100%;
    cursor: pointer;
 }
 .botoncerrar:hover{

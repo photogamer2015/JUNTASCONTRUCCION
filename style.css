@@ -23,6 +23,15 @@ color: #C19A6B;
 color: rgba(4, 43, 82, 0.819);
 }
 
+.youtubeF{
+color: #FF8C00;    
+    
+}
+
+.youtubeF:hover{
+color: rgba(4, 43, 82, 0.819);
+}
+
 h1{
     font-family: "Times New Roman", Times, Arial;
 }
